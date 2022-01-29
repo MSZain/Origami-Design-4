@@ -1,0 +1,119 @@
+.menu {
+    display : center;
+    justify-content :space-between;
+    background-color : black;
+    padding : 15px ;
+    font-size : 40px;
+    font-family:  Times New Roman;
+    font-weight: 400;
+    color : white
+}
+.body{
+    margin :0px ;
+    background-color : whitesmoke
+}
+
+.grid{
+    display : flex ;
+    flex-wrap : wrap ;
+    margin-left: 10px;
+    padding : 10px ;
+}
+.gridimg{
+    border : 3px solid black;
+    border-radius : 50px;
+}
+.origami1 {
+    border-radius : 20px;
+    background-color : rgb(255, 153, 161);
+    margin-left : 50px;
+    padding:5px;
+    width : 225px;
+    font-family: fantasy;
+}
+.origami2 {
+    border-radius : 20px;
+    background-color : rgb(255, 183, 178);
+    margin-left : 50px;
+    padding:5px;
+    width : 225px;
+    font-family: fantasy;
+}
+.origami3 {
+    border-radius : 20px;
+    background-color : rgb(255, 218, 193);
+    margin-left : 50px;
+    padding:5px;
+    width : 225px;
+    font-family: fantasy;
+}
+.origami4 {
+    border-radius : 20px;
+    background-color : rgb(226, 240, 195) ;
+    margin-left : 50px;
+    padding:5px;
+    width : 225px;
+    font-family: fantasy;
+}
+.origami5 {
+    border-radius : 20px;
+    background-color : rgb(181, 234, 215) ;
+    margin-left : 50px;
+    padding:5px;
+    width : 225px;
+    justify-content : center;
+    font-family: fantasy;
+}
+
+.link1{
+    margin-right: 20px;
+    width : 250px;
+    background-color : rgb(8, 47, 92)
+}
+.link2{
+    margin-right: 0px;
+    width : 250px;
+    background-color : rgb(14, 233, 233)
+}
+.link3{
+    margin-left: 20px;
+    width : 250px;
+    background-color : rgb(13, 219, 226)
+}
+.origami1:hover{
+    transform: scale(1.2);
+    
+  }
+  .origami2:hover{
+    transform: scale(1.2);
+    
+  }
+  .origami3:hover{
+    transform: scale(1.2);
+    
+  }
+  .origami4:hover{
+    transform: scale(1.2);
+    
+  }
+  .origami5:hover{
+    transform: scale(1.2);
+    
+  }
+  .img:hover{
+    background-color: rgba(250, 10, 10, 0.349);
+    color:  black;
+  }
+  a:link{
+    transform: scale(1.2);
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  
+  
+  a:visited{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+  
